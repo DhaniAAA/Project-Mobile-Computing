@@ -95,7 +95,7 @@
                     <div class="col-md mb-5" style="margin-top: 10px;">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title">Nama Kelompok 2</h5>
+                                <h5 class="card-title">Nama Kelompok</h5>
                                 <p>Ramadhanu (2104030005)</p>
                                 <p>Ramadhani (2104030004)</p>
                                 <p>Fahmi Fiddin (2104030048)</p>
